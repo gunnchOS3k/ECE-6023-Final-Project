@@ -24,10 +24,10 @@ This repository contains a complete MATLAB-based pipeline for machine-learning-d
 
 ## Repository Structure
 /
+.
 ├── generateDataset.mlx # Live script: generate beam‐management dataset
 ├── trainBeamNet.mlx # Live script: train & evaluate MLP
 ├── beamDataset28GHz.mat # Generated dataset (after running generator)
-├── /docs
-│ ├── 6G_Beam_Management_Report_v4.pdf
-│ └── 6G_Beam_Management_Slides_v4.pptx
-└── README.md # This file
+└── docs
+├── 6G_Beam_Management_Report_v4.pdf
+└── 6G_Beam_Management_Slides_v4.pptx

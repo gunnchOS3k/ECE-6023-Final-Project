@@ -34,10 +34,10 @@ This repository contains a complete MATLAB-based pipeline for machine-learning-d
 - **beamDataset28GHz.mat**  
   The MATLAB `.mat` file produced by the generator (10000×256 features + labels).
 
-- **docs/6G_Beam_Management_Report_v4.pdf**  
+- **docs/eg3573 ECE 6023 Final Project Report.pdf**  
   Final project report.
 
-- **docs/6G_Beam_Management_Slides_v4.pptx**  
+- **docs/6G_Beam_Management_Slides.pdf**  
   Final slide deck.
 
 - **README.md**  
